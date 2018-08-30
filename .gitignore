@@ -1,0 +1,6 @@
+.idea
+*.pyc
+*.tar
+*build
+*.gz
+*.csv

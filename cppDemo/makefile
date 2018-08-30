@@ -1,0 +1,1 @@
+g++ -std=c++11  -shared -o hello_ext.so -fPIC -I/usr/include/python2.7 greet_wrapper.cpp -lpython2.7 -lboost_python -lboost_thread -lboost_system
